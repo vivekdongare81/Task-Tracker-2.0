@@ -5,4 +5,6 @@ Deployed on GitHub Pages - https://vivekdongare81.github.io/Task-Tracker-2.0
 
 < Preview >
 
-![image](https://user-images.githubusercontent.com/74758376/147733516-7014e824-2052-46f7-81d0-9238583820a0.png)
+![image](https://user-images.githubusercontent.com/74758376/147733581-7fc52db3-186c-4ad4-aaae-57b27dc2c532.png)
+
+
